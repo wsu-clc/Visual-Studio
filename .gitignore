@@ -69,4 +69,5 @@ Testing/
 .cache/
 
 # Visual Studio cache and database files
+.vs/
 *.slnx.sqlite
